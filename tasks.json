@@ -1,0 +1,10 @@
+[
+    {
+        "description": "Buy groceries",
+        "status": "pending"
+    },
+    {
+        "description": "Read a book",
+        "status": "completed"
+    }
+]
